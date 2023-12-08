@@ -1,0 +1,8 @@
+MANDATORY HOMEWORK JAVA WEB Programming (-1p to the final project if not implemented)
+Requirments: 
+	-Write JUnit test cases using Mockito for each service and controller method that doesn`t have test cases implemented in the previous class(Laborator7 in GIT).
+	-For each remaining method add at least two use cases (happy use case and unhappy use case as is example)*
+*Feel free to add exceptions and code logic in order to have complete use cases
+Deadline:
+	-12 Dec 2023
+	-The implementation will be presented in the class
